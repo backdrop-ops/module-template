@@ -1,7 +1,7 @@
+type = module
 name = My Module
 description = A short description of the module goes here.
 backdrop = 1.x
-type = module
 
 ;configure = admin/config/system/my-module
 ;stylesheets[all][] = css/my_module.css
