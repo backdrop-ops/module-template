@@ -1,57 +1,75 @@
-The Name of My Project
-======================
+The Name of My Module
+=====================
 
-Foo project enables you to do bar. The first paragraph of this file should be
-kept short as it will be used as the project summary on backdropcms.org. Aim for
-about 240 characters (three lines at 80 characters each).
+My Module enables you to...
+
+The first paragraph of this file should be kept short as it will be used as the
+project summary on BackdropCMS.org. Aim for about 240 characters (three lines at
+80 characters each).
 
 All lines in this file should be no more than 80 characters long for legibility,
-unless including a URL or example that requires the line not wrap. (The first
+unless including a URL or example that requires the line to not wrap. (The first
 line of this paragraph is 80 characters for reference.)
 
 Detail in READMEs should be limited to the minimum required for installation and
 getting started. More detailed documentation should be moved to a GitHub wiki
-page: https://github.com/backdrop-contrib/setup/wiki/Documentation.
+page; for example: https://github.com/backdrop-contrib/setup/wiki/Documentation.
+
+
+Requirements
+------------
+
+This module requires that the following modules are also enabled:
+
+- [Example module](https://github.com/backdrop-contrib/example_module)
+- [Dummy library](https://github.com/backdrop-contrib/dummy_library)
+
 
 Installation
 ------------
 
 - Install this module using the official Backdrop CMS instructions at
-  https://backdropcms.org/guide/modules.
+  https://docs.backdropcms.org/documentation/extend-with-modules.
 
 - Visit the configuration page under Administration > Configuration > Category >
-  Foo (admin/config/category/foo) and enter the required information.
+  My Module (admin/config/category/my_module) and enter the required
+  information.
 
-- Any additional steps.
+- Additional steps go here...
+
 
 Documentation
 -------------
 
 Additional documentation is located in the Wiki:
-https://github.com/backdrop-contrib/foo-project/wiki/Documentation.
+https://github.com/backdrop-contrib/my_module/wiki/Documentation.
+
 
 Issues
 ------
 
-Bugs and Feature requests should be reported in the Issue Queue:
-https://github.com/backdrop-contrib/foo-project/issues.
+Bugs and Feature Requests should be reported in the Issue Queue:
+https://github.com/backdrop-contrib/my_module/issues.
+
 
 Current Maintainers
 -------------------
 
-- [John Smith](https://github.com/username)
-- [Jane Smith](https://github.com/username)
+- [Your Name](https://github.com/username)
+- Seeking additional maintainers
+
 
 Credits
 -------
 
-- Ported to Backdrop CMS by [Betty Boop](https://github.com/username).
-- Originally written for Drupal by [Bob Brown](https://github.com/username).
-- Based on the [MagicalCode project](https://github.com/example).
-- Sponsored by [TechNoCorp](https://example.com).
+- Ported to Backdrop CMS by [Your Name](https://github.com/username).
+- Originally written for Drupal by [Someone Else](https://github.com/username).
+- Based on [Some Other project](https://github.com/example).
+- Sponsored by [An Organization](https://example.org).
+
 
 License
 -------
 
-This project is GPL v2 software. 
+This project is GPL v2 software.
 See the LICENSE.txt file in this directory for complete text.
